@@ -1,0 +1,19 @@
+{
+  "name": "reddragon",
+  "version": "1.0.0",
+  "description": "utility tool",
+  "main": "reddragon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffnamenye/reddragon.git"
+  },
+  "author": "JNamenye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffnamenye/reddragon/issues"
+  },
+  "homepage": "https://github.com/jeffnamenye/reddragon#readme"
+}
